@@ -3,6 +3,7 @@ This repository contains the MATLAB code associated with our publication analysi
 
 Please cite:
 Shah SA, Brown P, Gimeno H, Lin JP,  Mcclelland VM. Application of machine learning using decision trees for prognosis of deep brain stimulation of globus pallidus internus for children with dystonia. Frontiers in Neurology 11 (2020): 825
+
 DOI: https://doi.org/10.3389/fneur.2020.00825
 
 To run the analysis, type Analysis_A in the command line. 
